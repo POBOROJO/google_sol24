@@ -10,7 +10,6 @@ const user1Data = {
   StepCount: 10000,
   Calories: 570,
   SleepTime: 7,
-  Sex: 3,
   ScreenTime: 4, // Assume lower is better
   PhysicalActivity: 80, // Score out of 100
   SleepQuality: 85, // Score out of 100
